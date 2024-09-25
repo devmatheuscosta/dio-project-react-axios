@@ -55,7 +55,7 @@ A aplicação será aberta em seu navegador padrão no endereço `http://localho
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/teteu/.vscode/extensions/codeium.codeium-1.16.18/dist/LICENSE) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/devmatheuscosta/dio-project-react-axios?tab=MIT-1-ov-file)) para mais detalhes.
 
 ## Contribuição
 
