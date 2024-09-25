@@ -55,7 +55,7 @@ A aplicação será aberta em seu navegador padrão no endereço `http://localho
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/devmatheuscosta/dio-project-react-axios?tab=MIT-1-ov-file)) para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](https://github.com/devmatheuscosta/dio-project-react-axios?tab=MIT-1-ov-file) para mais detalhes.
 
 ## Contribuição
 
